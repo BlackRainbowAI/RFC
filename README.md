@@ -1,1 +1,1 @@
-# Propositions
+# Proposals
